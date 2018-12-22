@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="etHeight">Height (cm)</string>
+    <string name="etWeight">Weight (kg)</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="textBMISaved">BMI Saved</string>
+    <string name="btnback">Back</string>
+    <string name="btnNext">to Page 3</string>
+    <string name="textError">Error</string>
+</resources>
